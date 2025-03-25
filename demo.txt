@@ -1,1 +1,2 @@
 File from feature branch
+Changing file in feature branch
